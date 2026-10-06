@@ -1,0 +1,41 @@
+From: "Chase Online Banking" <security-alert@chase-secure-verify.com>
+To: "Jamie Hanigan" <jamiehanigan1@gmail.com>
+Subject: URGENT: Your account will be SUSPENDED in 24 hours - verify now
+Date: Mon, 5 Oct 2026 09:14:22 -0400
+Message-ID: <a1b2c3d4@chase-secure-verify.com>
+Return-Path: <bounce@chase-secure-verify.com>
+Reply-To: support@chase-verify-helpdesk.net
+Authentication-Results: mx.example.com;
+    spf=fail smtp.mailfrom=chase-secure-verify.com;
+    dkim=fail header.d=chase-secure-verify.com;
+    dmarc=fail
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+We have detected unauthorized activity on your account. Your account
+will be SUSPENDED within 24 hours unless you verify your identity
+immediately.
+
+Click here to confirm your identity and prevent account deactivation.
+
+This is your final notice. Action required.
+
+--BOUNDARY123
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <b>unauthorized activity</b> on your account. Your account
+will be <b>SUSPENDED within 24 hours</b> unless you verify your identity
+immediately.</p>
+<p><a href="http://chase-secure-verify.com/login?token=abc123">chase.com/secure-login</a></p>
+<p>This is your <b>final notice</b>. Action required.</p>
+</body>
+</html>
+--BOUNDARY123--
