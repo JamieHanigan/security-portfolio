@@ -1,0 +1,20 @@
+From: "Chase" <no-reply@alerts.chase.com>
+To: "Jamie Hanigan" <jamiehanigan1@gmail.com>
+Subject: Your monthly account statement is ready
+Date: Mon, 5 Oct 2026 08:02:11 -0400
+Message-ID: <stmt-998877@alerts.chase.com>
+Return-Path: <no-reply@alerts.chase.com>
+Authentication-Results: mx.example.com;
+    spf=pass smtp.mailfrom=alerts.chase.com;
+    dkim=pass header.d=chase.com;
+    dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hi Jamie,
+
+Your October statement for your checking account ending in 4521 is
+ready. Sign in to your account to review it.
+
+Thanks,
+Chase
